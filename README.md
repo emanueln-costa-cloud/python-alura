@@ -1,3 +1,3 @@
-# Primeiros codigos python
-<h2> Aprendo na Alura</h2>
-Juntamente usando o Git e Github
+# Primeiros codigos em Python
+**Primeiro curso de Python na Alura**
+ e também usando os aprendizado Git e Github ;)
