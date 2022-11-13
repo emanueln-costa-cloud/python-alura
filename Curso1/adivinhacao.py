@@ -9,6 +9,7 @@ total_de_tentativas = 0
 
 print("Qual nivel de dificuldade? ")
 print("(1) Facil (2) Medio (3) Dificil")
+print("ola")
 
 nivel = int(input("Define o nivel: "))
 
