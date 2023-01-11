@@ -1,6 +1,15 @@
+import forca
+import adivinhacao
+
 print("*********************************")
 print("Escolha o seu jogo!")
 print("*********************************")
 
+print("(1) Forca (2) Adivinhação")
 
-print("Fim do jogo")
+jogo = int(input("Qual jogo?"))
+
+if(jogo == 1):
+    print("Jogando Forca")
+elif(jogo == 2):
+    print("Jogando Adivinhção")
