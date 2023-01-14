@@ -3,5 +3,5 @@ melancia
 morango
 maça
 manga
-mamão
+mamao
 pessego
